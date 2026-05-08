@@ -1,0 +1,596 @@
+[
+  {
+    "id": "1",
+    "price": "24990",
+    "brand": "TechPro",
+    "category": "Электроника"
+  },
+  {
+    "id": "2",
+    "price": "4590",
+    "brand": "SportMax",
+    "category": "Обувь"
+  },
+  {
+    "id": "3",
+    "price": "12990",
+    "brand": "HomeKit",
+    "category": "Бытовая техника"
+  },
+  {
+    "id": "4",
+    "price": "990",
+    "brand": "StyleMe",
+    "category": "Одежда"
+  },
+  {
+    "id": "5",
+    "price": "3490",
+    "brand": "AudioWave",
+    "category": "Электроника"
+  },
+  {
+    "id": "6",
+    "price": "12490",
+    "brand": "HomeKit",
+    "category": "Бытовая техника"
+  },
+  {
+    "id": "7",
+    "price": "1990",
+    "brand": "TravelGear",
+    "category": "Туризм"
+  },
+  {
+    "id": "8",
+    "price": "5990",
+    "brand": "TechPro",
+    "category": "Электроника"
+  },
+  {
+    "id": "9",
+    "price": "3490",
+    "brand": "StyleMe",
+    "category": "Одежда"
+  },
+  {
+    "id": "10",
+    "price": "6990",
+    "brand": "SportMax",
+    "category": "Обувь"
+  },
+  {
+    "id": "11",
+    "price": "8490",
+    "brand": "HomeKit",
+    "category": "Бытовая техника"
+  },
+  {
+    "id": "12",
+    "price": "7490",
+    "brand": "TechPro",
+    "category": "Электроника"
+  },
+  {
+    "id": "13",
+    "price": "1490",
+    "brand": "CityStyle",
+    "category": "Канцелярские товары"
+  },
+  {
+    "id": "14",
+    "price": "15990",
+    "brand": "CleanHome",
+    "category": "Бытовая техника"
+  },
+  {
+    "id": "15",
+    "price": "7990",
+    "brand": "StyleMe",
+    "category": "Одежда"
+  },
+  {
+    "id": "16",
+    "price": "3990",
+    "brand": "HomeKit",
+    "category": "Бытовая техника"
+  },
+  {
+    "id": "17",
+    "price": "9990",
+    "brand": "RelaxHome",
+    "category": "Бытовая техника"
+  },
+  {
+    "id": "18",
+    "price": "15990",
+    "brand": "TechPro",
+    "category": "Электроника"
+  },
+  {
+    "id": "19",
+    "price": "5490",
+    "brand": "TravelGear",
+    "category": "Туризм"
+  },
+  {
+    "id": "20",
+    "price": "2990",
+    "brand": "HomeKit",
+    "category": "Бытовая техника"
+  },
+  {
+    "id": "21",
+    "price": "12990",
+    "brand": "SportMax",
+    "category": "Туризм"
+  },
+  {
+    "id": "22",
+    "price": "1390",
+    "brand": "HomeKit",
+    "category": "Бытовая техника"
+  },
+  {
+    "id": "23",
+    "price": "3990",
+    "brand": "TimeStyle",
+    "category": "Аксессуары"
+  },
+  {
+    "id": "24",
+    "price": "1890",
+    "brand": "TechPro",
+    "category": "Аксессуары"
+  },
+  {
+    "id": "25",
+    "price": "3490",
+    "brand": "FotoSnap",
+    "category": "Аксессуары"
+  },
+  {
+    "id": "26",
+    "price": "2990",
+    "brand": "RelaxHome",
+    "category": "Аксессуары"
+  },
+  {
+    "id": "27",
+    "price": "18990",
+    "brand": "SportMax",
+    "category": "Туризм"
+  },
+  {
+    "id": "28",
+    "price": "390",
+    "brand": "TechPro",
+    "category": "Аксессуары"
+  },
+  {
+    "id": "29",
+    "price": "890",
+    "brand": "TasteGood",
+    "category": "Кухня"
+  },
+  {
+    "id": "30",
+    "price": "12990",
+    "brand": "RelaxHome",
+    "category": "Дом"
+  },
+  {
+    "id": "31",
+    "price": "2790",
+    "brand": "StyleMe",
+    "category": "Одежда"
+  },
+  {
+    "id": "32",
+    "price": "34990",
+    "brand": "SportMax",
+    "category": "Туризм"
+  },
+  {
+    "id": "33",
+    "price": "2790",
+    "brand": "CleanHome",
+    "category": "Бытовая техника"
+  },
+  {
+    "id": "34",
+    "price": "7990",
+    "brand": "RelaxHome",
+    "category": "Бытовая техника"
+  },
+  {
+    "id": "35",
+    "price": "320",
+    "brand": "TasteGood",
+    "category": "-"
+  },
+  {
+    "id": "36",
+    "price": "4590",
+    "brand": "TechPro",
+    "category": "Электроника"
+  },
+  {
+    "id": "37",
+    "price": "690",
+    "brand": "StyleMe",
+    "category": "Одежда"
+  },
+  {
+    "id": "38",
+    "price": "1290",
+    "brand": "TravelGear",
+    "category": "Туризм"
+  },
+  {
+    "id": "39",
+    "price": "190",
+    "brand": "StationPlus",
+    "category": "Канцелярские товары"
+  },
+  {
+    "id": "40",
+    "price": "6490",
+    "brand": "SportMax",
+    "category": "Обувь"
+  },
+  {
+    "id": "41",
+    "price": "890",
+    "brand": "ToolMaster",
+    "category": "Канцелярские товары"
+  },
+  {
+    "id": "42",
+    "price": "12990",
+    "brand": "TechPro",
+    "category": "Электроника"
+  },
+  {
+    "id": "43",
+    "price": "4990",
+    "brand": "StyleMe",
+    "category": "Одежда"
+  },
+  {
+    "id": "44",
+    "price": "180",
+    "brand": "TasteGood",
+    "category": "Пищевые товары"
+  },
+  {
+    "id": "45",
+    "price": "90",
+    "brand": "StationPlus",
+    "category": "Канцелярские товары"
+  },
+  {
+    "id": "46",
+    "price": "1490",
+    "brand": "SportMax",
+    "category": "Туризм"
+  },
+  {
+    "id": "47",
+    "price": "1490",
+    "brand": "FotoSnap",
+    "category": "Канцелярские товары"
+  },
+  {
+    "id": "48",
+    "price": "67990",
+    "brand": "TechPro",
+    "category": "Электроника"
+  },
+  {
+    "id": "49",
+    "price": "3990",
+    "brand": "TravelGear",
+    "category": "Туризм"
+  },
+  {
+    "id": "50",
+    "price": "990",
+    "brand": "TasteGood",
+    "category": "Пищевые товары"
+  },
+  {
+    "id": "51",
+    "price": "3990",
+    "brand": "ToolMaster",
+    "category": "Бытовая техника"
+  },
+  {
+    "id": "52",
+    "price": "2490",
+    "brand": "LightHome",
+    "category": "Бытовая техника"
+  },
+  {
+    "id": "53",
+    "price": "2490",
+    "brand": "StyleMe",
+    "category": "Одежда"
+  },
+  {
+    "id": "54",
+    "price": "890",
+    "brand": "HomeKit",
+    "category": "Канцелярские товары"
+  },
+  {
+    "id": "55",
+    "price": "2990",
+    "brand": "SportMax",
+    "category": "Туризм"
+  },
+  {
+    "id": "56",
+    "price": "590",
+    "brand": "TechPro",
+    "category": "Бытовая техника"
+  },
+  {
+    "id": "57",
+    "price": "690",
+    "brand": "TravelGear",
+    "category": "Туризм"
+  },
+  {
+    "id": "58",
+    "price": "1290",
+    "brand": "RelaxHome",
+    "category": "Туризм"
+  },
+  {
+    "id": "59",
+    "price": "390",
+    "brand": "NatureHome",
+    "category": "Туризм"
+  },
+  {
+    "id": "61",
+    "price": "1490",
+    "brand": "StationPlus",
+    "category": "Канцелярские товары"
+  },
+  {
+    "id": "62",
+    "price": "990",
+    "brand": "ArtWorld",
+    "category": "Канцелярские товары"
+  },
+  {
+    "id": "63",
+    "price": "290",
+    "brand": "TasteGood",
+    "category": "Продукты питания"
+  },
+  {
+    "id": "64",
+    "price": "2790",
+    "brand": "AudioWave",
+    "category": "Электроника"
+  },
+  {
+    "id": "65",
+    "price": "390",
+    "brand": "CleanHome",
+    "category": "Бытовая техника"
+  },
+  {
+    "id": "66",
+    "price": "1990",
+    "brand": "PetLife",
+    "category": "Пищевые товары"
+  },
+  {
+    "id": "67",
+    "price": "690",
+    "brand": "BeautyLine",
+    "category": "Косметика"
+  },
+  {
+    "id": "68",
+    "price": "890",
+    "brand": "ArtWorld",
+    "category": "Хобби"
+  },
+  {
+    "id": "69",
+    "price": "990",
+    "brand": "TechPro",
+    "category": "Электроника"
+  },
+  {
+    "id": "70",
+    "price": "1490",
+    "brand": "TravelGear",
+    "category": "Туризм"
+  },
+  {
+    "id": "71",
+    "price": "3990",
+    "brand": "SportMax",
+    "category": "Спортивные товары"
+  },
+  {
+    "id": "72",
+    "price": "1190",
+    "brand": "KidsPlay",
+    "category": "Одежда"
+  },
+  {
+    "id": "73",
+    "price": "590",
+    "brand": "RelaxHome",
+    "category": "Бытовая техника"
+  },
+  {
+    "id": "74",
+    "price": "390",
+    "brand": "StationPlus",
+    "category": "Канцелярские товары"
+  },
+  {
+    "id": "75",
+    "price": "90",
+    "brand": "KidsPlay",
+    "category": "-"
+  },
+  {
+    "id": "76",
+    "price": "590",
+    "brand": "CleanHome",
+    "category": "-"
+  },
+  {
+    "id": "77",
+    "price": "2490",
+    "brand": "CollectWorld",
+    "category": "-"
+  },
+  {
+    "id": "78",
+    "price": "2490",
+    "brand": "TravelGear",
+    "category": "Туризм"
+  },
+  {
+    "id": "79",
+    "price": "1990",
+    "brand": "NatureHome",
+    "category": "-"
+  },
+  {
+    "id": "80",
+    "price": "990",
+    "brand": "ArtWorld",
+    "category": "-"
+  },
+  {
+    "id": "81",
+    "price": "1290",
+    "brand": "TravelGear",
+    "category": "Бытовая техника"
+  },
+  {
+    "id": "82",
+    "price": "490",
+    "brand": "BeautyLine",
+    "category": "Косметика"
+  },
+  {
+    "id": "83",
+    "price": "390",
+    "brand": "TechPro",
+    "category": "Электроника"
+  },
+  {
+    "id": "84",
+    "price": "590",
+    "brand": "StationPlus",
+    "category": "Электроника"
+  },
+  {
+    "id": "85",
+    "price": "1490",
+    "brand": "RelaxHome",
+    "category": "Бытовая техника"
+  },
+  {
+    "id": "86",
+    "price": "290",
+    "brand": "KidsPlay",
+    "category": "Канцелярские товары"
+  },
+  {
+    "id": "87",
+    "price": "690",
+    "brand": "StyleMe",
+    "category": "Обувь"
+  },
+  {
+    "id": "88",
+    "price": "390",
+    "brand": "TasteGood",
+    "category": "Продукты"
+  },
+  {
+    "id": "89",
+    "price": "1290",
+    "brand": "HomeDecor",
+    "category": "Бытовая техника"
+  },
+  {
+    "id": "90",
+    "price": "890",
+    "brand": "-",
+    "category": "Канцелярские товары"
+  },
+  {
+    "id": "91",
+    "price": "390",
+    "brand": "KidsPlay",
+    "category": "Прочее"
+  },
+  {
+    "id": "92",
+    "price": "790",
+    "brand": "RelaxHome",
+    "category": "Косметика"
+  },
+  {
+    "id": "93",
+    "price": "2990",
+    "brand": "HomeKit",
+    "category": "Бытовая техника"
+  },
+  {
+    "id": "94",
+    "price": "2490",
+    "brand": "SmilePro",
+    "category": "Косметика"
+  },
+  {
+    "id": "95",
+    "price": "1490",
+    "brand": "PetLife",
+    "category": "Домашнее хозяйство"
+  },
+  {
+    "id": "96",
+    "price": "290",
+    "brand": "ToolMaster",
+    "category": "Бытовая техника"
+  },
+  {
+    "id": "97",
+    "price": "190",
+    "brand": "StationPlus",
+    "category": "Канцелярские товары"
+  },
+  {
+    "id": "98",
+    "price": "1990",
+    "brand": "KidsPlay",
+    "category": "Туризм"
+  },
+  {
+    "id": "99",
+    "price": "890",
+    "brand": "NatureHome",
+    "category": "Домашнее хозяйство"
+  },
+  {
+    "id": "100",
+    "price": "490",
+    "brand": "TravelGear",
+    "category": "Туризм"
+  }
+]
